@@ -5,10 +5,20 @@
 - 👯 Estou procurando oportunidade de estágio;
 - 😄 Pronomes: ela/dela
 - ⚡ Fato interessante: fui professora de ciências/biologia por 11 anos antes de me aventurar em programação.
+- 📖 Linguagens que estudo:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+<br>
+<br>
 
 <a href="https://github.com/PriReis/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PriReis&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/PriReis/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriReis" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriReis&theme=blue-green" />
 </a>
