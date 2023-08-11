@@ -3,8 +3,8 @@
 - 🔭 Atualmente estou trabalhando em um projeto pessoal de portifólio digital (https://sites.google.com/view/portiflio-priscila/in%C3%ADcio);
 - 🌱 Estou no quarto semestre de ADS, módulo DevOps;
 - 👯 Estou procurando oportunidade de estágio;
-- 😄 Pronomes: ela/dela
-- ⚡ Fato interessante: fui professora de ciências/biologia por 11 anos antes de me aventurar em programação.
+- 😄 Pronomes: ela/dela;
+- ⚡ Fato interessante: fui professora de ciências/biologia por 11 anos antes de me aventurar em programação;
 - 📖 Estudando:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
