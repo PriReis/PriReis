@@ -16,9 +16,9 @@
 <br>
 <br>
 
-<a href="https://github.com/PriReis/github-readme-stats">
+<a href="https://github.com/PriReis">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PriReis&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/PriReis/convoychat">
+<a href="https://github.com/PriReis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriReis&theme=blue-green" />
 </a>
